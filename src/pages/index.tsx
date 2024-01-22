@@ -1,4 +1,3 @@
-import Image from "next/image";
 import { Inter } from "next/font/google";
 import Logo from "@/components/Logo";
 import Hero from "@/components/Hero";
@@ -11,7 +10,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export default function Home() {
   return (
-    <main className="h-screen bg-white">
+    <main className="min-h-screen bg-white">
       <div>
         <div className="grid grid-cols-1 md:grid-cols-2 items-center justify-center ">
           <div>
