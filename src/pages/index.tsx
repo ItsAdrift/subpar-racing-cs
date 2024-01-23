@@ -33,6 +33,7 @@ export default function Home() {
               <div className="xl:mt-[10px]">
                 <CTA/>
               </div>
+              
             </div>
           </div>
 
@@ -48,7 +49,7 @@ export default function Home() {
         </div>
 
         {/* MD - Image*/}
-        <div className="hidden md:block mt-10 xl:hidden">
+        <div className="md:block mt-10 xl:hidden">
           <HeroImage/>
         </div>
       </div>
