@@ -1,5 +1,5 @@
 import Image from "next/image";
-import img from '@/media/Bathurst-Joshua King14-4.jpg'
+import img from '@/media/Bathurst-Joshua King14-3.jpg'
 
 export default function HeroImage() {
     return (

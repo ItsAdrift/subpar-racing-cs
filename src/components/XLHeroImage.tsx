@@ -1,6 +1,6 @@
 // HeroImage component
 import Image from "next/image";
-import img from '@/media/HeroHalf.png'
+import img from '@/media/HeroHalf2.png'
 
 export default function XLHeroImage() {
     return (
